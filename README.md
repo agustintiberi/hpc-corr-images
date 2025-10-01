@@ -4,7 +4,7 @@
 
 **Trabajo final del curso de posgrado: Introducción a la programación HPC con Python y sus aplicaciones al procesamiento de imagenes - Instituto M. Gulich (UNC/CONAE), Argentina.**
 
--   Autor: [Agustín E. Tiberi](agustintiberi.com) - tiberiagustin\@gmail.com / aetiberi\@unse.edu.ar
+-   Autor: [Agustín E. Tiberi](https://agustintiberi.com) - tiberiagustin\@gmail.com / aetiberi\@unse.edu.ar
 
 -   [*Lab. de Sistemas de Información Geográfica, Universidad Nacional de Santiago del Estero, Argentina* ](https://github.com/siglabfcfunse)
 
