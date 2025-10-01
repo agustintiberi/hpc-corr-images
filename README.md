@@ -14,7 +14,7 @@
 
 Este flujo de trabajo está diseñado para:
 
--   Desempeñar correlaciones de Pearson en pares de imágenes satelitales (correlación de Pearson).
+-   Desempeñar correlaciones de Pearson en pares de imágenes satelitales.
 
 -   Evaluar la aplicación de diferentes métodos de paralelización durante el cómputo de las correlaciones. Se recomienda hacerlo con 10 o más pares de imágenes para poder observar diferencias de desempeño.
 
