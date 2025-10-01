@@ -86,7 +86,7 @@ python analyze_results.py
 #### 5. Licencia
 
 ```         
-© Copyright 2025 Agustin E. Tiberi
+© Copyright 2025 Agustin E. Tiberi - Lab. de Sistemas de Información Geográfica, Universidad Nacional de Santiago del Estero
 
 El contenido de este sitio está bajo una licencia CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
