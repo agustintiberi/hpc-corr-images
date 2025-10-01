@@ -1,4 +1,4 @@
-## Flujo de trabajo comparativo (HPC) para calcular correlación de pares de imagenes 
+## Flujo de trabajo comparativo (HPC) para calcular correlación de pares de imagenes
 
 #### 1. Metadata
 
@@ -6,7 +6,7 @@
 
 -   Autor: [Agustín E. Tiberi](agustintiberi.com) - tiberiagustin\@gmail.com / aetiberi\@unse.edu.ar
 
--   *Lab. de Sistemas de Información Geográfica, Universidad Nacional de Santiago del Estero, Argentina*
+-   [*Lab. de Sistemas de Información Geográfica, Universidad Nacional de Santiago del Estero, Argentina* ](https://github.com/siglabfcfunse)
 
 -   Versión: 1.0
 
